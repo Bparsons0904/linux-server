@@ -20,7 +20,7 @@ Additional Private Endpoints from http://ec2-35-163-150-67.us-west-2.compute.ama
 
 Project running on AWS Lightsail located:
 http://ec2-35-163-150-67.us-west-2.compute.amazonaws.com/
-34.212.89.127 public ip
+35.163.150.67 public IP
 172.26.4.6 private IP
 
 Software Installed
